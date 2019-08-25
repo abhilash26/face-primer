@@ -10,4 +10,4 @@ One can use this library for many applications such as face detection, expressio
 I needed a small piece of code to use as a foundation for my projects.
 Here is it. Just plug and play.
 
-NOTE: The JeelizWeboji has all the copyright and licensing for this code. Since that is marked as MIT, I will also mark this as MIT.
+NOTE: The JeelizWeboji has all the copyright and licensing for this code. Since that is marked as Apache License 2.0, I will also mark this as Apache License 2.0.
